@@ -1,6 +1,7 @@
 <?php 
 /*
 Template Name: Films Page
+Template Post Types: films
 */
 ?>
 
